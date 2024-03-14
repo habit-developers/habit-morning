@@ -1,3 +1,5 @@
+**기록 공간 옮겼습니다**: https://den-eight.vercel.app/memory
+
 # ☀️ habit-morning
 
 ## 🔨 규칙 및 스크럼 작성 방법
